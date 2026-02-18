@@ -1,22 +1,18 @@
-## Hi there 👋
+### Hi there!👋🏽
 
-I am Chetan, a Software Developer with strong hands-on experience in Java, Spring, Spring Boot, AngularJS, and MySQL, building scalable and user-focused web applications.
+I am Chetan, a Software Developer with strong hands-on experience in **Java**, **Spring**, **Spring Boot**, **AngularJS**, and **MySQL**, building scalable and user-focused web applications.
 
-I enjoy solving real-world engineering challenges and continuously improving my skills by staying up to date with modern web technologies. With a strong interest in both frontend and backend development, I focus on creating clean user interfaces and efficient backend APIs, and I’m always excited to collaborate, learn, and contribute to impactful projects.
+<p>I enjoy solving real-world engineering challenges and continuously improving my skills by staying up to date with modern web technologies. With a strong interest in both frontend and backend development, I focus on creating clean user interfaces and efficient backend APIs, and I’m always excited to collaborate, learn, and contribute to impactful projects.</p>
 
 
+## 📦 Toolbox
 
-<!--
-**Rautc252/Rautc252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,java,python,js,html,css,tailwind,ts,react,angular" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,postgresql,redis,postman,aws,docker" />  
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/thechetanraut/).
