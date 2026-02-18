@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am Chetan, a Software Developer with strong hands-on experience in Java, Spring, Spring Boot, AngularJS, and MySQL, building scalable and user-focused web applications.
+
+I enjoy solving real-world engineering challenges and continuously improving my skills by staying up to date with modern web technologies. With a strong interest in both frontend and backend development, I focus on creating clean user interfaces and efficient backend APIs, and I’m always excited to collaborate, learn, and contribute to impactful projects.
+
+
+
 <!--
 **Rautc252/Rautc252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
