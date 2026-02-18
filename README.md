@@ -8,8 +8,8 @@ I am Chetan, a Software Developer with strong hands-on experience in **Java**, *
 ## 📦 Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,java,python,js,html,css,tailwind,ts,react,angular" />
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,postgresql,redis,postman,aws,docker" />  
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tailwind,ts,angular" />
+  <img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,postgresql,redis,postman,aws,docker" />  
 </p>
 
 
